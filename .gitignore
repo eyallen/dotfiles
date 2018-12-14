@@ -1,0 +1,2 @@
+# Dont include Vim Plugins
+.vim/bundle
