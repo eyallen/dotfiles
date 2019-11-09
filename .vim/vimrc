@@ -18,6 +18,7 @@ Plugin 'junegunn/fzf.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'scrooloose/nerdtree'
+Bundle 'edkolev/promptline.vim'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
